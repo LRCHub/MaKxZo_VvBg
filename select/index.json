@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Pain",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2026-02-27T07:52:24.878042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Pain",
+      "artist": "Margo Price",
+      "has_synced": false,
+      "path": "select/01_A_Little_Pain_Margo_Price.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Pain",
+      "artist": "Marcus King",
+      "has_synced": false,
+      "path": "select/02_No_Pain_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tammy Wynette Kind Of Pain",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/03_Tammy_Wynette_Kind_Of_Pain_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tammy Wynette Kind Of Pain",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/04_Tammy_Wynette_Kind_Of_Pain_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Migrate (Featuring T-Pain)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/05_Migrate_(Featuring_T-Pain)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Pain",
+      "artist": "Eminem feat. Sia",
+      "has_synced": true,
+      "path": "select/06_Beautiful_Pain_Eminem_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond the Gates of Pain",
+      "artist": "Jedi Mind Tricks feat. Sean Price",
+      "has_synced": true,
+      "path": "select/07_Beyond_the_Gates_of_Pain_Jedi_Mind_Tricks_feat._Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beyond The Gates Of Pain",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/08_Beyond_The_Gates_Of_Pain_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bring the Pain (feat. Method Man)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/09_Bring_the_Pain_(feat._Method_Man)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pain 1993 (feat. Playboi Carti)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_Pain_1993_(feat._Playboi_Carti)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One More Drink (feat. T-Pain)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/11_One_More_Drink_(feat._T-Pain)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No More Pain",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_No_More_Pain_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pain Away",
+      "artist": "YBN Nahmir feat. YBN Cordae",
+      "has_synced": true,
+      "path": "select/13_Pain_Away_YBN_Nahmir_feat._YBN_Cordae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pain Away",
+      "artist": "YBN Nahmir & YBN Cordae",
+      "has_synced": true,
+      "path": "select/14_Pain_Away_YBN_Nahmir_&_YBN_Cordae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feel My Pain",
+      "artist": "Lil Duke",
+      "has_synced": false,
+      "path": "select/15_Feel_My_Pain_Lil_Duke.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Got Money (Feat. T-Pain)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/16_Got_Money_(Feat._T-Pain)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How To Hate (Feat. T-Pain)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/17_How_To_Hate_(Feat._T-Pain)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm On a Boat (feat. T-Pain)",
+      "artist": "The Lonely Island feat. T-Pain",
+      "has_synced": true,
+      "path": "select/18_I'm_On_a_Boat_(feat._T-Pain)_The_Lonely_Island_feat._T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm On A Boat (feat. T-Pain)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/19_I'm_On_A_Boat_(feat._T-Pain)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ride The Pain - Jacques Lu Cont Thin White Duke Mix",
+      "artist": "Juliet",
+      "has_synced": false,
+      "path": "select/20_Ride_The_Pain_-_Jacques_Lu_Cont_Thin_White_Duke_Mix_Juliet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pain",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_Pain_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Pain",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_Pain_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Pain Serph Remix",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_Pain_Serph_Remix_平井_堅.txt"
+    }
+  ]
+}
